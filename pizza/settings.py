@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-@h)kwl4i3(9+zji!)capnuo@67+9sd70ls+hfm^9u99wvgt5z2
 # ALLOWED_HOSTS = []
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','pizzaonline.com']
+ALLOWED_HOSTS = ['127.0.0.1','pizza-online1.herokuapp.com/']
 
 
 # Application definition
