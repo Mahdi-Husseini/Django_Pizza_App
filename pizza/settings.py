@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-@h)kwl4i3(9+zji!)capnuo@67+9sd70ls+hfm^9u99wvgt5z2
 # ALLOWED_HOSTS = []
 DEBUG = False
 #pizza-online1.herokuapp.com/
-ALLOWED_HOSTS = env.list('DJANGO_ALLOWED_HOSTS', default=['.pizza-online1.com,pizza-online1.herokuapp.com'])
+ALLOWED_HOSTS = ('DJANGO_ALLOWED_HOSTS', ['.pizza-online1.com,pizza-online1.herokuapp.com'])
 
 
 # Application definition
