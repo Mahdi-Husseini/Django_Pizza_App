@@ -76,8 +76,6 @@ networkx==2.6.3
 nnfs==0.5.1
 notebook==6.4.12
 numpy==1.20.2
-opencv-contrib-python==4.5.2.52
-opencv-python==4.5.2.52
 packaging==21.3
 Panda3D==1.10.10
 panda3d-gltf==0.13
