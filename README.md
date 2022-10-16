@@ -1,6 +1,8 @@
 # Django_Pizza_App
 A simple demo of a pizza web application through django
 
+(if you are ok with starting with the default database and you haven't uninstalled it, then skip steps 2 and 3)
+
 to run the app:
 
 1- navigate to the project directory (Where manage.py is located)
@@ -9,5 +11,9 @@ to run the app:
 4- run "py manage.py runserver" to start the application
 
 to access admin login page add /admin to the website url after port number
+
+superuser username: admin
+password: admin
+(unless you created another superuser, use the credentials above)
 
 # Happy Pizza!
